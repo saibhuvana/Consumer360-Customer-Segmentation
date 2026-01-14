@@ -119,9 +119,7 @@ Consumer360-Customer-Segmentation/
 ---
 
 ## Author
-Bhuvana Surya
+Sappati Bhuvana Surya Sai Sudha
 
 ---
 
-## Note
-Power BI (.pbix) file may exceed GitHub size limits. Dashboard screenshots or access can be provided upon request.
